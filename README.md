@@ -197,8 +197,6 @@ Expected Graduation **2027**
 # 📜 Certifications
 
 - Frontend Development Internship – Vyloo Technologies
-- Google AI Essentials *(Add if completed)*
-- JavaScript Certifications *(Optional)*
 
 ---
 
