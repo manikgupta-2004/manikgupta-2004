@@ -160,7 +160,6 @@
 
 </div>
 
-> **Note:** Agar kisi platform par account nahi hai, uska button hata dena.
 
 ---
 
