@@ -216,11 +216,11 @@ Expected Graduation **2027**
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🎬 Netflix Clone | Responsive Netflix landing page | HTML • CSS |
-| 🛒 Amazon Clone | Amazon homepage clone | HTML • CSS |
+| 🧠 NeuroScan AI | AI-based frontend interface | HTML • CSS • JavaScript |
 | 💱 Currency Converter | Real-time currency conversion using API | HTML • CSS • JavaScript |
 | 🎮 Tic Tac Toe | Interactive game with JavaScript | HTML • CSS • JavaScript |
-| 🧠 NeuroScan AI | AI-based frontend interface | HTML • CSS • JavaScript |
+| 🎬 Netflix Clone | Responsive Netflix landing page | HTML • CSS |
+| 🛒 Amazon Clone | Amazon homepage clone | HTML • CSS |
 | 🎨 3D Slider | Modern 3D Image Slider | HTML • CSS |
 
 </div>
