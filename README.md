@@ -314,8 +314,10 @@ while(!(success)){
 
 <div align="center">
 
-## ⭐ Thanks for Visiting My Profile!
+### ⭐ Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=120&section=footer"/>
+If you like my work, don't forget to ⭐ my repositories.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:667eea,100:764ba2&section=footer"/>
 
 </div>
