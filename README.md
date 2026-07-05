@@ -300,14 +300,10 @@ while(!(success)){
 
 ---
 
-# 🐍 Contribution Snake
-
-> **Enable this after pushing your README**
+## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/manikgupta-2004/manikgupta-2004/output/github-contribution-grid-snake.svg"/>
-
+  <img src="https://raw.githubusercontent.com/manikgupta-2004/manikgupta-2004/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
