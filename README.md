@@ -68,7 +68,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,cpp,git,github,vscode,react"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,cpp,git,github,vscode,react,bootstrap"/>
 
 </div>
 
